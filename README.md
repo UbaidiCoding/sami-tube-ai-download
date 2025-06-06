@@ -3,7 +3,7 @@
 **Sami-TubeX** is a powerful, open-source, all-in-one media downloading and AI assistance tool. It allows users to download videos and audio from various platforms while also providing smart features powered by AI for productivity and interaction. Built with a modern tech stack including React, TypeScript, Tailwind, and shadcn-ui, it's lightning fast, user-friendly, and developer-focused.
 
 > 💡 This project is open-source and community-driven. We welcome contributions, ideas, and feedback to make Sami-TubeX better for everyone!
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4e08dc48-a5fd-4c5a-835f-bf88af681f00/deploy-status)](https://app.netlify.com/projects/samitubex/deploys)
 🔗 **Live URL**: [https://lovable.dev/projects/95038929-28ac-450c-a29c-a7779dfbe4c5](https://lovable.dev/projects/95038929-28ac-450c-a29c-a7779dfbe4c5)
 
 ---
