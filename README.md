@@ -1,73 +1,151 @@
-# Welcome to your Lovable project
 
-## Project info
+# 🚀 Sami-TubeX – All-in-One Video & Audio Downloader + AI Assistant
+**Sami-TubeX** is a powerful, open-source, all-in-one media downloading and AI assistance tool. It allows users to download videos and audio from various platforms while also providing smart features powered by AI for productivity and interaction. Built with a modern tech stack including React, TypeScript, Tailwind, and shadcn-ui, it's lightning fast, user-friendly, and developer-focused.
 
-**URL**: https://lovable.dev/projects/95038929-28ac-450c-a29c-a7779dfbe4c5
+> 💡 This project is open-source and community-driven. We welcome contributions, ideas, and feedback to make Sami-TubeX better for everyone!
 
-## How can I edit this code?
+🔗 **Live URL**: [https://lovable.dev/projects/95038929-28ac-450c-a29c-a7779dfbe4c5](https://lovable.dev/projects/95038929-28ac-450c-a29c-a7779dfbe4c5)
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🌟 Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/95038929-28ac-450c-a29c-a7779dfbe4c5) and start prompting.
+* 🎞️ Download videos & audio from major platforms (YouTube, TikTok, etc.)
+* 🤖 Integrated AI assistant for summaries, commands, suggestions
+* ⚡ Modern, responsive UI with Tailwind CSS and shadcn-ui
+* 📱 Mobile-friendly and optimized for all devices
+* 🧠 Clean codebase with TypeScript for maintainability
+* 📤 Open-source and ready for community collaboration
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🛠 Tech Stack
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+This project is built using:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+* ⚙️ [Vite](https://vitejs.dev/) – Fast frontend tooling
+* ⚛️ [React](https://reactjs.org/) – Component-based UI library
+* 💅 [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework
+* 🌈 [shadcn/ui](https://ui.shadcn.com/) – Beautiful, accessible UI components
+* 🧠 [TypeScript](https://www.typescriptlang.org/) – Typed JavaScript for scalable code
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+## 🧑‍💻 Getting Started
+
+### Option 1: Edit on Lovable
+
+Use Lovable's AI-powered editor to modify your app:
+
+👉 [Open Sami-TubeX in Lovable](https://lovable.dev/projects/95038929-28ac-450c-a29c-a7779dfbe4c5)
+
+Changes made here will automatically commit to this GitHub repo.
+
+---
+
+### Option 2: Run Locally
+
+Make changes using your preferred IDE:
+
+#### Prerequisites
+
+* Node.js & npm (Install via [nvm](https://github.com/nvm-sh/nvm#installing-and-updating))
+
+#### Steps
+
+```bash
+# Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Step 2: Navigate into the project directory
+cd sami-tubex
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Step 3: Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### Option 3: Use GitHub Codespaces
 
-**Use GitHub Codespaces**
+1. Open the repo on GitHub
+2. Click the green **Code** button
+3. Select the **Codespaces** tab
+4. Click **Create codespace on main**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 🚀 Deployment
 
-This project is built with:
+You can easily deploy using Lovable:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+1. Open the project in [Lovable](https://lovable.dev/projects/95038929-28ac-450c-a29c-a7779dfbe4c5)
+2. Click **Share → Publish**
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/95038929-28ac-450c-a29c-a7779dfbe4c5) and click on Share -> Publish.
+## 🌍 Connect a Custom Domain
 
-## Can I connect a custom domain to my Lovable project?
+To link your own domain:
 
-Yes, you can!
+* Go to **Project → Settings → Domains**
+* Click **Connect Domain**
+* Follow this [guide](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+## 🤝 Contributing
+
+We welcome your contributions!
+
+### How to Contribute
+
+* ⭐ Star this repo to support the project
+* 🐛 Submit bug reports or feature requests via [issues](../../issues)
+* 🔧 Fork the repo, create a branch, and submit a pull request
+* 📢 Share it with others!
+
+### Contribution Ideas
+
+* Add support for more media platforms
+* Improve AI assistant prompts & logic
+* Add theme toggle (dark/light)
+* Translate to other languages
+* Suggest UI/UX improvements
+
+---
+
+## 💬 Join the Community
+
+* Website: Coming Soon
+* GitHub Discussions: (To be enabled)
+* Telegram Bot: `@ib_trading17_bot` *(used in other Sami projects)*
+
+---
+
+## 📄 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+## 💙 A Project by [Samiullah Samejo](https://github.com/UbaidiCoding)
+
+Follow and support the creator:
+
+* GitHub: [UbaidiCoding](https://github.com/UbaidiCoding)
+* YouTube: [Code With Sami Ubaidi](https://youtube.com/@Code_WithSami_Ubaidi)
+* Facebook: [@codewithsamiubaidi](https://facebook.com/codewithsamiubaidi)
+
+---
+
+## 🙏 Support This Project
+
+If you find value in this project, consider:
+
+* ⭐ Starring this repo
+* 📢 Sharing with friends
+* 💸 [Donating via Binance or bank transfer](#)
